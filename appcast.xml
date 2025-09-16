@@ -3,32 +3,33 @@
     <channel>
         <title>水牛云 Release</title>
         <item>
-            <title>Version 2.0.0</title>
+            <title>Version 1.0.2</title>
             <pubDate>Wed, 14 Aug 2024 10:00:00 +0000</pubDate>
             <enclosure
                 url="https://github.com/nnpy/BuffaloCloud/releases/download/v2.0.0/buffalocloud-android-release.apk"
-                sparkle:version="2.0.0" sparkle:os="android" />
+                sparkle:version="1.0.2" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 2.0.0</title>
+            <title>Version 1.0.2</title>
             <pubDate>Wed, 14 Aug 2024 10:00:00 +0000</pubDate>
             <enclosure
                 url="https://github.com/nnpy/BuffaloCloud/releases/download/v2.0.0/buffalocloud-windows-x64-setup.zip"
-                sparkle:version="2.0.0" sparkle:os="windows" />
+                sparkle:version="1.0.2" sparkle:os="windows" />
         </item>
         <item>
-            <title>Version 2.0.0</title>
+            <title>Version 1.0.2</title>
             <pubDate>Wed, 14 Aug 2024 10:00:00 +0000</pubDate>
             <enclosure
                 url="https://github.com/nnpy/BuffaloCloud/releases/download/v2.0.0/buffalocloud-macos-universal.zip"
-                sparkle:version="2.0.0" sparkle:os="macos" />
+                sparkle:version="1.0.2" sparkle:os="macos" />
         </item>
         <item>
-            <title>Version 2.0.0</title>
+            <title>Version 1.0.2</title>
             <pubDate>Wed, 14 Aug 2024 10:00:00 +0000</pubDate>
             <enclosure
                 url="https://github.com/nnpy/BuffaloCloud/releases/download/v2.0.0/buffalocloud-linux-x64.zip"
-                sparkle:version="2.0.0" sparkle:os="linux" />
+                sparkle:version="1.0.2" sparkle:os="linux" />
         </item>
     </channel>
+
 </rss>
