@@ -6,7 +6,7 @@
             <title>Version 1.1.0</title>
             <pubDate>Wed, 14 Aug 2024 10:00:00 +0000</pubDate>
             <enclosure
-                url="https://github.com/nnpy/BuffaloCloud/releases/download/v2.0.0/buffalocloud-android-release.apk"
+                url="https://gh-proxy.com/https://github.com/nnpy/BuffaloCloud/releases/download/v1.1.0/BuffaloCloud-v1.1.0-Android-arm64-v8a-release_sign.apk"
                 sparkle:version="1.1.0" sparkle:os="android" />
         </item>
         <item>
@@ -33,4 +33,5 @@
     </channel>
 
 </rss>
+
 
